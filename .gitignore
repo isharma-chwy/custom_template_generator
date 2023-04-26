@@ -1,0 +1,12 @@
+output/*
+output_edlp/*
+output_rx_process/*
+received_rx/*
+rx_catalogs_generated/*
+__pycache__/*
+connection_info.py
+*.xlsx
+*.csv
+*.log
+*.sql
+excel_post_process.py
